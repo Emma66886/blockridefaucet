@@ -1,6 +1,6 @@
 {
-  "name": "BLOCKRIDE TEST USDC",
-  "symbol": "BLRTUSDC",
+  "name": "USDB",
+  "symbol": "USDB",
   "description": "This is the mock USDC for blockride",
   "image": "https://raw.githubusercontent.com/Emma66886/blockride/main/logo.png"
 }
